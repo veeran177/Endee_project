@@ -1,0 +1,9 @@
+streamlit
+
+endee
+
+sentence-transformers
+
+pandas
+
+numpy
