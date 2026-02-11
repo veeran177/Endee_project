@@ -1,5 +1,5 @@
 # Semantic Product Search Engine
-An end-to-end AI application that understands user intent to find products, built for the [Company Name] Internship.
+An end-to-end AI application that understands user intent to find products, built for the Endee Internship.
 
 <img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/80c15282-0eb2-4cc4-99d0-6d6490551789" />
 
@@ -28,3 +28,4 @@ streamlit run app.py
 Implementing vector similarity search with Cosine distance.
 Handling real-world data ingestion and batch upserts.
 Building a modular Python project structure (separation of concerns).
+
